@@ -1,6 +1,7 @@
 import Header from "../components/Header"
 import Login from "../components/Login"
 
+//component for Login UI
 export default function LoginPage(){
     return(
         <>
