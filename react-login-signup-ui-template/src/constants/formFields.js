@@ -1,3 +1,4 @@
+//field details for login and register page
 const loginFields=[
     {
         labelText:"Email address",
